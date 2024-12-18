@@ -1,0 +1,293 @@
+{
+  "best-products": [
+    {
+      "id": "6",
+      "code": "P-06",
+      "name": "Bakso",
+      "price": 10000,
+      "img": "bakso.jpg"
+    },
+    {
+      "id": "2",
+      "code": "P-02",
+      "name": "Nasi Goreng",
+      "price": 14000,
+      "img": "nasi-goreng.jpg"
+    },
+    {
+      "id": "3",
+      "code": "P-03",
+      "name": "Nasi Rawon",
+      "price": 12000,
+      "img": "rawon.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "code": "P-01",
+      "name": "Sate Aci",
+      "price": 16000,
+      "img": "sate-aci.jpg"
+    },
+    {
+      "id": "2",
+      "code": "P-02",
+      "name": "Nasi Goreng",
+      "price": 14000,
+      "img": "nasi-goreng.jpg"
+    },
+    {
+      "id": "3",
+      "code": "P-03",
+      "name": "Nasi Rawon",
+      "price": 12000,
+      "img": "rawon.jpg"
+    },
+    {
+      "id": "4",
+      "code": "P-04",
+      "name": "Mie Ayam",
+      "price": 14000,
+      "img": "mie-ayam.jpg"
+    },
+    {
+      "id": "5",
+      "code": "P-05",
+      "name": "Mie Goreng",
+      "price": 13000,
+      "img": "mie-goreng.jpg"
+    },
+    {
+      "id": "6",
+      "code": "P-06",
+      "name": "Bakso",
+      "price": 10000,
+      "img": "bakso.jpg"
+    },
+    {
+      "id": "7",
+      "code": "P-07",
+      "name": "Martabak",
+      "price": 5000,
+      "img": "martabak-telur.jpg"
+    },
+    {
+      "id": "8",
+      "code": "P-08",
+      "name": "Tahu Goreng",
+      "price": 5000,
+      "img": "tahu-gejrot.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "0e72",
+      "total": 2,
+      "notes": "",
+      "products": {
+        "id": "2",
+        "code": "P-02",
+        "name": "Nasi Goreng",
+        "price": 14000,
+        "img": "nasi-goreng.jpg"
+      }
+    },
+    {
+      "id": "d12e",
+      "total": 23,
+      "notes": "",
+      "products": {
+        "id": "1",
+        "code": "P-01",
+        "name": "Sate Aci",
+        "price": 16000,
+        "img": "sate-aci.jpg"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "name": "Afif",
+      "table": "3",
+      "cart": [
+        {
+          "quantity": "1",
+          "notes": "Pedes",
+          "product": {
+            "id": 1,
+            "code": "P-01",
+            "name": "Sate Ayam",
+            "price": 16000,
+            "img": "sate-ayam.jpg"
+          },
+          "id": 1
+        },
+        {
+          "quantity": "1",
+          "product": {
+            "id": 2,
+            "code": "P-02",
+            "name": "Nasi Goreng",
+            "price": 14000,
+            "img": "nasi-goreng.jpg"
+          },
+          "id": 2
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "c40e",
+      "name": "asd",
+      "table": "2",
+      "cart": [
+        {
+          "id": "9bf9",
+          "quantity": 3,
+          "notes": "",
+          "product": {
+            "id": "2",
+            "code": "P-02",
+            "name": "Nasi Goreng",
+            "price": 14000,
+            "img": "nasi-goreng.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "72ca",
+      "name": "sdasd",
+      "table": "3",
+      "cart": [
+        {
+          "id": "db77",
+          "quantity": 4,
+          "notes": "",
+          "product": {
+            "id": "6",
+            "code": "P-06",
+            "name": "Bakso",
+            "price": 10000,
+            "image": "bakso.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "7311",
+      "name": "sadas",
+      "table": "4",
+      "cart": [
+        {
+          "id": "8a74",
+          "quantity": 1,
+          "notes": "",
+          "product": {
+            "id": "2",
+            "code": "P-02",
+            "name": "Nasi Goreng",
+            "price": 14000,
+            "image": "nasi-goreng.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "f255",
+      "name": "awa",
+      "table": "3",
+      "carts": [
+        {
+          "id": "766e",
+          "total": 4,
+          "notes": "",
+          "products": {
+            "id": "3",
+            "code": "P-03",
+            "name": "Nasi Rawon",
+            "price": 12000,
+            "img": "rawon.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "2de6",
+      "name": "aw",
+      "table": "4",
+      "carts": [
+        {
+          "id": "5d48",
+          "total": 2,
+          "notes": "ww",
+          "products": {
+            "id": "1",
+            "code": "P-01",
+            "name": "Sate Aci",
+            "price": 16000,
+            "img": "sate-aci.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "513a",
+      "name": "as",
+      "table": "3",
+      "carts": [
+        {
+          "id": "452b",
+          "total": 1,
+          "notes": "",
+          "products": {
+            "id": "2",
+            "code": "P-02",
+            "name": "Nasi Goreng",
+            "price": 14000,
+            "img": "nasi-goreng.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "aea2",
+      "name": "21",
+      "table": "21",
+      "carts": [
+        {
+          "id": "cada",
+          "total": 4,
+          "notes": "",
+          "products": {
+            "id": "2",
+            "code": "P-02",
+            "name": "Nasi Goreng",
+            "price": 14000,
+            "img": "nasi-goreng.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1297",
+      "name": "12",
+      "table": "12",
+      "carts": [
+        {
+          "id": "3fd6",
+          "total": 5,
+          "notes": "",
+          "products": {
+            "id": "1",
+            "code": "P-01",
+            "name": "Sate Aci",
+            "price": 16000,
+            "img": "sate-aci.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
